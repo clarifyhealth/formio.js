@@ -1,8 +1,0 @@
-_site
-lib
-dump.rdb
-.DS_Store
-.bower.json
-node_modules
-bower_components
-.idea
